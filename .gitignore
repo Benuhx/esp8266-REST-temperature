@@ -32,4 +32,4 @@
 *.app
 
 #VS Code C++ settings
-**/c_cpp_properties.json
+src/.vscode/c_cpp_properties.json
