@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+#VS Code C++ settings
+**/c_cpp_properties.json
